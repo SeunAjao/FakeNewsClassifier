@@ -21,7 +21,9 @@ o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
 
 
 **References**
+
 Zubiaga, A., Liakata, M. and Procter, R., 2016. Learning reporting dynamics during breaking news for rumour detection in social media. arXiv preprint arXiv:1610.07363.
+
 CBC News. 2014. "Ottawa shooting: A day of chaos leaves soldier, gunman dead." https://www.cbc.ca/news/politics/ottawa-shooting-a-day-of-chaos-leaves-soldier-gunman-dead-1.2808710
 
 BBC. 2015. "Charlie Hebdo attack: A timeline of how the terror unfolded" https://www.bbc.com/news/world-europe-30708237
