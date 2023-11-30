@@ -19,6 +19,7 @@ o	It contains a total of over 5,000 instances and tweets about these 5 events:
 o To help with the task, five simplified versions of the dataset has been made available in the main GitHub branch
 as follows: combined rumor-non-rumor, Ottawashooting, Charliehebdo, Ferguson, Sydneysiege, Germanwings
 
+
 o	Each row of data is in the format: “text” <tab> “label”
 
 o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
