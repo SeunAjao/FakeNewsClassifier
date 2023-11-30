@@ -7,7 +7,9 @@ We shall be using the Pheme Rumor-Non-Rumor (RNR) Dataset (Zubiaga et al 2016) u
 
 **Dataset Description**
 The PHEME dataset from the below site in the raw JSON format: https://figshare.com/articles/PHEME_dataset_of_rumours_and_non-rumours/4010619 
+
 o	It contains a total of over 5,000 instances and tweets about these 5 events:
+
 1.	Ottawashooting: The mass shooting at Parliament Hill in Ottawa.
 2.	Charliehebdo: Attacks on the satirical weekly newspaper Charlie Hebdo in Paris
 3.	Ferguson: Killing of an 18-year-old boy by a police officer in Ferguson, Missouri.
@@ -16,7 +18,9 @@ o	It contains a total of over 5,000 instances and tweets about these 5 events:
 
 o To help with the task, five simplified versions of the dataset has been made available in the main GitHub branch
 as follows: combined rumor-non-rumor, Ottawashooting, Charliehebdo, Ferguson, Sydneysiege, Germanwings
+
 o	Each row of data is in the format: “text” <tab> “label”
+
 o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
 
 
