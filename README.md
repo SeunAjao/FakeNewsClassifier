@@ -23,7 +23,11 @@ o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
 **References**
 Zubiaga, A., Liakata, M. and Procter, R., 2016. Learning reporting dynamics during breaking news for rumour detection in social media. arXiv preprint arXiv:1610.07363.
 CBC News. 2014. "Ottawa shooting: A day of chaos leaves soldier, gunman dead." https://www.cbc.ca/news/politics/ottawa-shooting-a-day-of-chaos-leaves-soldier-gunman-dead-1.2808710
+
 BBC. 2015. "Charlie Hebdo attack: A timeline of how the terror unfolded" https://www.bbc.com/news/world-europe-30708237
+
 CNN. 2014. “What we know about Michael Brown’s Shooting” https://edition.cnn.com/2014/08/11/us/missouri-ferguson-michael-brown-what-we-know/index.html
+
 BBC. 2014. “Three dead after commandos storm cafe” https://www.bbc.co.uk/news/world-australia-30485355
+
 New York Times 2015. “Germanwings Crash in French Alps Kills 150; Cockpit Voice Recorder Is Found” https://www.nytimes.com/2015/03/25/world/europe/germanwings-crash.html?searchResultPosition=3
