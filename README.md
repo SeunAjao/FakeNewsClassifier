@@ -14,8 +14,8 @@ o	It contains a total of over 5,000 instances and tweets about these 5 events:
 4.	Sydneysiege: A siege on the Lindt Chocolate Café in Sydney.
 5.	germanwings-crash: Crash of Germanwings Flight 9525 from Barcelona to Dusseldorf.
 
-o To help with the task, a text version of the dataset has been made available here: 
-o	https://drive.google.com/drive/folders/1kNddivimd7LuFxiRXgaJ0qV5y8ZvyluM?usp=sharing
+o To help with the task, five simplified versions of the dataset has been made available in the main GitHub branch
+as follows: combined rumor-non-rumor, Ottawashooting, Charliehebdo, Ferguson, Sydneysiege, Germanwings
 o	Each row of data is in the format: “text” <tab> “label”
 o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
 
