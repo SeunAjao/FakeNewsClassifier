@@ -10,11 +10,12 @@ The PHEME dataset from the below site in the raw JSON format: https://figshare.c
 
 o	It contains a total of over 5,000 instances and tweets about these 5 events:
 
-1.	Ottawashooting: The mass shooting at Parliament Hill in Ottawa.
-2.	Charliehebdo: Attacks on the satirical weekly newspaper Charlie Hebdo in Paris
-3.	Ferguson: Killing of an 18-year-old boy by a police officer in Ferguson, Missouri.
-4.	Sydneysiege: A siege on the Lindt Chocolate Café in Sydney.
-5.	germanwings-crash: Crash of Germanwings Flight 9525 from Barcelona to Dusseldorf.
+
+1.	Charliehebdo: Attacks on the satirical weekly newspaper Charlie Hebdo in Paris
+2.	Ferguson: Killing of an 18-year-old boy by a police officer in Ferguson, Missouri.
+3.	germanwings-crash: Crash of Germanwings Flight 9525 from Barcelona to Dusseldorf.
+4.	Ottawashooting: The mass shooting at Parliament Hill in Ottawa.
+5.	Sydneysiege: A siege on the Lindt Chocolate Café in Sydney.
 
 o To help with the task, five simplified versions of the dataset has been made available in the main GitHub branch
 as follows: combined rumor-non-rumor, Ottawashooting, Charliehebdo, Ferguson, Sydneysiege, Germanwings
