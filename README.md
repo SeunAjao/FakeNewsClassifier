@@ -28,6 +28,8 @@ o	Where labels are given as 1 for fake/rumor and 0 for real/non-rumor messages
 
 **References**
 
+Ajao, O., Bhowmik, D. and Zargari, S., 2018, July. Fake news identification on twitter with hybrid cnn and rnn models. In Proceedings of the 9th international conference on social media and society (pp. 226-230).
+
 Zubiaga, A., Liakata, M. and Procter, R., 2016. Learning reporting dynamics during breaking news for rumour detection in social media. arXiv preprint arXiv:1610.07363.
 
 CBC News. 2014. "Ottawa shooting: A day of chaos leaves soldier, gunman dead." https://www.cbc.ca/news/politics/ottawa-shooting-a-day-of-chaos-leaves-soldier-gunman-dead-1.2808710
