@@ -13,7 +13,7 @@ o	It contains a total of over 5,000 instances and tweets about these 5 events:
 
 1.	Charliehebdo: Attacks on the satirical weekly newspaper Charlie Hebdo in Paris
 2.	Ferguson: Killing of an 18-year-old boy by a police officer in Ferguson, Missouri.
-3.	germanwings-crash: Crash of Germanwings Flight 9525 from Barcelona to Dusseldorf.
+3.	Germanwings-crash: Crash of Germanwings Flight 9525 from Barcelona to Dusseldorf.
 4.	Ottawashooting: The mass shooting at Parliament Hill in Ottawa.
 5.	Sydneysiege: A siege on the Lindt Chocolate Café in Sydney.
 
